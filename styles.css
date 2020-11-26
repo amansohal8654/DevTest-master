@@ -1,0 +1,278 @@
+.Rectangle-2 {
+    width: 100%;
+    height: 300px;
+    margin: 0 0 27px;
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0), #000000 35%);
+    background: url(assets/main-banner.png) no-repeat ; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 50%;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    border-bottom-right-radius: 750px;
+    border-bottom-left-radius: 800px;
+    border-bottom-style: groove;
+   }
+
+.container {
+    width: 100%;
+    height: 765px;
+    padding: 0.5px 0 50.5px;
+  }
+
+  .Rectangle-2 > img {
+      width: 100%;
+  }
+
+  .Group-2 {
+    width: 720px;
+    height: 34px;
+    margin: 278px 0 15px;
+    object-fit: contain;
+}
+
+.Need-a-dog-sitter {
+width: 201px;
+  height: 28px;
+  margin: 0 93px 5px 0;
+  font-family: Quicksand;
+  font-size: 22.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  }
+
+  .Find-a-trusted-sitte {
+    width: 292px;
+    height: 34px;
+    margin: 5px 0 12.5px 2px;
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+
+  .Rectangle {
+    width: 83.5px;
+    height: 24px;
+    margin: 12.5px 208.5px 0 2px;
+    padding: 6.5px 16.5px 6px 17px;
+    border-radius: 2px;
+    background-color: #de6c17;
+  }
+
+  .Learn-More-Copy-3 {
+    width: 50px;
+    height: 11.5px;
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+
+  .Our-Services {
+    width: 137.5px;
+    height: 28px;
+    margin: 15px 41px 5px 41.5px;
+    font-family: Quicksand;
+    font-size: 22.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+  }
+
+  .Local-trusted-pet {
+    width: 344.5px;
+    height: 51px;
+    margin: 5px 187.5px 35px 188px;
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: #5e6e66;
+  }
+
+  .React_3{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: -300px;
+  }
+
+  .React_4{
+      display: flex;
+      place-content: center;
+      margin-bottom: 100px;
+  }
+  
+  .fredrik-ohlander-520696-unsplash {
+    width: 190px;
+    height: 133px;
+    margin: 0 0 12.5px;
+  }
+
+  .Mask {
+    width: 190px;
+    height: 268px;
+    margin: 35px 15px 0 60px;
+    padding: 0 0 13.5px;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: #ffffff;
+  }
+
+  .Dog-Walking {
+    width: 86px;
+    height: 17.5px;
+    margin: 12.5px 91.5px 5px 12.5px;
+    font-family: Quicksand;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+  }
+
+  .Got-a-bit-more-on-th {
+    width: 165px;
+    height: 65px;
+    margin: 5px 12.5px 10px;
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: #5e6e66;
+  }
+
+  .Learn-More {
+    height: 11.5px;
+    margin: 10px 4.5px 0 12.5px;
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #de6c17;
+  }
+
+  .Line-3-Copy {
+    width: 5.5px;
+    height: 3px;
+    margin: 15px 117.5px 3.5px 4.5px;
+    transform: rotate(-90deg);
+    border: solid 1.5px #de6c17;
+  }
+
+  .Rectangle-3-Copy {
+    width: 512px;
+    height: 28.3px;
+    margin: 2px 0 0.4px;
+    opacity: 0.59;
+    background-color: #ffffff;
+  }
+
+  @media only screen 
+  and (min-device-width: 388px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+    .React_4{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 100px;
+        align-items: center;
+    }
+
+    .Mask {
+        width: 407.5px;
+        height: 150.5px;
+        margin: 35px 52.5px 10px 52px;
+        padding: 0 10.5px 0 0;
+        border-radius: 4px;
+        box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+        background-color: #ffffff;
+      }
+      .fredrik-ohlander-520696-unsplash {
+        width: 198px;
+        height: 150.5px;
+        margin: 0 14.5px 0 0;
+      }
+
+      .Dog-Walking {
+        width: 152.5px;
+        height: 17.5px;
+        margin: 18px 32px 6.5px 14.5px;
+        font-family: Quicksand;
+        font-size: 14px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #36413c;
+      }
+
+
+      .Got-a-bit-more-on-th {
+        width: 184px;
+        height: 65px;
+        margin: 6.5px 0 10px 15px;
+        font-family: Quicksand;
+        font-size: 9px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.44;
+        letter-spacing: normal;
+        color: #5e6e66;
+      }
+
+      .Learn-More-Copy-5 {
+        width: 50px;
+        height: 11.5px;
+        margin: 10px 4.5px 22px 15.5px;
+        font-family: Quicksand;
+        font-size: 9px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #de6c17;
+      }
+
+      .Line-3-Copy-5 {
+        width: 5.5px;
+        height: 3px;
+        margin: 15px 112.5px 25.5px 4.5px;
+        transform: rotate(-90deg);
+        border: solid 1.5px #de6c17;
+      }
+
+}
