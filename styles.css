@@ -2,17 +2,13 @@
     width: 100%;
     height: 300px;
     margin: 0 0 27px;
-    background-image: linear-gradient(to left, rgba(255, 255, 255, 0), #000000 35%);
+    mask-image: linear-gradient(to left, rgba(255, 255, 255, 0), #000000 35%);
     background: url(assets/main-banner.png) no-repeat ; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: 100% 50%;
-    padding-top: 100px;
-    padding-bottom: 300px;
-    border-bottom-right-radius: 750px;
-    border-bottom-left-radius: 800px;
-    border-bottom-style: groove;
+    background-size: 100% 100%;
+    clip-path: polygon(50% 0%, 100% 0, 100% 84%, 47% 100%, 48% 100%, 0 92%, 0 0);
    }
 
 .container {
@@ -21,9 +17,6 @@
     padding: 0.5px 0 50.5px;
   }
 
-  .Rectangle-2 > img {
-      width: 100%;
-  }
 
   .Group-2 {
     width: 720px;
@@ -115,7 +108,6 @@ width: 201px;
       display: flex;
       flex-direction: column;
       align-items: center;
-      margin-top: -300px;
   }
 
   .React_4{
@@ -189,16 +181,8 @@ width: 201px;
     border: solid 1.5px #de6c17;
   }
 
-  .Rectangle-3-Copy {
-    width: 512px;
-    height: 28.3px;
-    margin: 2px 0 0.4px;
-    opacity: 0.59;
-    background-color: #ffffff;
-  }
-
   @media only screen 
-  and (min-device-width: 388px) 
+  and (min-device-width: 300px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 1) {
 
@@ -217,6 +201,7 @@ width: 201px;
         border-radius: 4px;
         box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
         background-color: #ffffff;
+        display: flex;
       }
       .fredrik-ohlander-520696-unsplash {
         width: 198px;
@@ -276,3 +261,9 @@ width: 201px;
       }
 
 }
+
+@media only screen 
+  and (min-device-width: 300px) 
+  and (max-device-width: 780px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+  }
