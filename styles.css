@@ -8,8 +8,14 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% 100%;
-    clip-path: polygon(50% 0%, 100% 0, 100% 84%, 47% 100%, 48% 100%, 0 92%, 0 0);
    }
+
+   .Rectangle-3-Copy {
+    width: 100%;
+    height: 28.3px;
+    margin: 100px 0 0.4px;
+    opacity: 0.59;
+  }
 
 .container {
     width: 100%;
